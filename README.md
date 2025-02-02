@@ -1,5 +1,4 @@
-# FPGA_Elevator_Controller
-Simulated a 3-floored elevator using a FPGA board.
+#Final Project for EE2742
 
 1. State Diagram
 
